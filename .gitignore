@@ -1,2 +1,2 @@
-db/*
+db/urubu.sqlite3
 .env
